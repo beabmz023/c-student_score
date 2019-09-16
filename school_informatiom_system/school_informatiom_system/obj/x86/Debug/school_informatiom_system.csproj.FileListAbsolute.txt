@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.newForm2.resources
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\bin\Debug\school_informatiom_system.exe
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\bin\Debug\school_informatiom_system.pdb
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.exe
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.pdb
+c:\users\user\documents\visual studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.modifyForm2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.seleteForm2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.Form2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.subjectcs.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\school_informatiom_system\school_informatiom_system\obj\x86\Debug\school_informatiom_system.PrintOptions.resources
